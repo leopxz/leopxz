@@ -1,6 +1,6 @@
 ## Olá, me chamo Leonardo 👋
 
-<p align="center">**Amante do mundo da tecnologia, e do que ela pode nos proporcionar.** <br><br> Sou estudante de Analise e desenvolvimento de sistemas, e me encontrei na área quando conheci Python, confesso que é o meu queridinho do momento, quero seguir a carreira de cientista de dados é com isso desenvolver grandes projetos.</p>&nbsp;
+<p align="center"> Amante do mundo da tecnologia, e do que ela pode nos proporcionar . <br><br> Sou estudante de Analise e desenvolvimento de sistemas, e me encontrei na área quando conheci Python, confesso que é o meu queridinho do momento, quero seguir a carreira de cientista de dados é com isso desenvolver grandes projetos.</p>&nbsp;
 
 
  &nbsp;
