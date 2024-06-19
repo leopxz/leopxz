@@ -1,5 +1,5 @@
 ## Olá, me chamo Leonardo 🙋🏻‍♂️
-<p align="center"><b>Amante do mundo da tecnologia, e do que ela pode nos proporcionar. 💙</b> <br><br> Sou estudante de Análise e desenvolvimento de sistemas, e me encontrei na área quando conheci Python, confesso que é o meu queridinho do momento, quero seguir a carreira de cientista de dados é com isso desenvolver grandes projetos.</p>&nbsp;
+<p align="center"><b>Amante do mundo da tecnologia, e do que ela pode nos proporcionar 💙</b> <br><br> Sou estudante de Análise e desenvolvimento de sistemas, e me encontrei na área quando conheci Python, confesso que é o meu queridinho do momento, quero seguir a carreira de cientista de dados é com isso desenvolver grandes projetos.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=leopxz&theme=radical&mode=weekly" />
