@@ -1,4 +1,4 @@
-## Olá, me chamo Leonardo 🙋🏻‍♂️
+## Olá, me chamo Leonardo 👨🏻‍💻
 <p align="center"><b>Amante do mundo da tecnologia e do que ela pode nos proporcionar 💙</b> <br><br> Sou estudante de Análise e desenvolvimento de sistemas, me encantei quando conheci a linguagem Python, confesso que é o meu queridinho do momento, quero seguir a carreira de cientista de dados e com isso desenvolver grandes projetos.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
