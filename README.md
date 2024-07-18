@@ -1,4 +1,4 @@
-# Olá, eu sou o Igor Leonardo Paixão da Silva! 👋
+# Olá, me chamo Leonardo Paixão! 👋
 
 ## Sobre Mim
 Sou um desenvolvedor apaixonado por Data Science, Machine Learning e desenvolvimento web. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e buscando oportunidades para aplicar e expandir minhas habilidades em projetos interessantes.
