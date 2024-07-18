@@ -17,7 +17,9 @@ Sou um desenvolvedor apaixonado por Data Science, Machine Learning e desenvolvim
 - [Landing Page para Freelance](https://github.com/leopxz/landing-page): Exemplo de uma landing page profissional desenvolvida para um cliente.
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leopxz&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leopxz&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+</div>
 
 
 <div  align="center" style="margin-bottom:100px">
