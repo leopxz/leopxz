@@ -20,12 +20,11 @@ Sou um desenvolvedor apaixonado por Data Science, Machine Learning e desenvolvim
 
 <div  align="center" style="margin-bottom:100px">
 <img src="https://github-readme-stats.vercel.app/api?username=leopxz&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-  <img width=40% align="center" src="https://github-readme-stats-zeta-ebon-57.vercel.app/api/top-langs/?username=leopxz&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-zeta-ebon-57.vercel.app/api/top-langs/?username=leopxz&show_icons=true&theme=radical&layout=compact" />
 
  </div>
  &nbsp;
  &nbsp;
-<img width=40% align="center" src="https://github-readme-stats-zeta-ebon-57.vercel.app/api/top-langs/?username=leopxz&show_icons=true&theme=radical&layout=compact" />
 
 
 ## Minhas Skills
