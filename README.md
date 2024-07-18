@@ -7,7 +7,7 @@ Sou um desenvolvedor apaixonado por Data Science, Machine Learning e desenvolvim
 -  Aprendendo mais sobre desenvolvimento web
 -  Aberto para colaboração em projetos de open source
 
-- 📫 Como me encontrar: [Minhas Redes Sociais](https://linktr.ee/leopxz) 
+- Você pode entrar em contato comigo através das [Minhas Redes Sociais](https://linktr.ee/leopxz) 
 
 ## Projetos em Destaque
 - [PowerBi Relatórios](https://github.com/leopxz/PowerBi_Relatorios): Relatórios e visualizações de dados usando Power BI.
