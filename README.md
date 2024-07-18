@@ -1,5 +1,24 @@
-## Olá, me chamo Leonardo 👨🏻‍💻
-<p align="center"><b>Amante do mundo da tecnologia e do que ela pode nos proporcionar 💙</b> <br><br> Sou estudante de Análise e desenvolvimento de sistemas, me encantei quando conheci a linguagem Python, e quero seguir a carreira de cientista de dados e com isso desenvolver grandes projetos e ajudar outras pessoas.</p>&nbsp;
+# Olá, eu sou o Igor Leonardo Paixão da Silva! 👋
+
+## Sobre Mim
+Sou um desenvolvedor apaixonado por Data Science, Machine Learning e desenvolvimento web. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e buscando oportunidades para aplicar e expandir minhas habilidades em projetos interessantes.
+
+- 🔭 Atualmente trabalhando em projetos de Machine Learning e análises de dados
+- 🌱 Aprendendo mais sobre desenvolvimento web e tecnologias cloud
+- 👯 Aberto para colaboração em projetos de open source
+- 💬 Pergunte-me sobre qualquer coisa relacionada a dados e desenvolvimento web
+- 📫 Como me encontrar: [Minhas Redes Sociais](https://linktr.ee/leopxz) 
+
+## Projetos em Destaque
+- [PowerBi Relatórios](https://github.com/leopxz/PowerBi_Relatorios): Relatórios e visualizações de dados usando Power BI.
+- [Projeto de Data Science](https://github.com/leopxz/ProjetoDataScience): Projetos de análise de dados e modelos preditivos em Data Science.
+- [Projeto Lafepe](https://github.com/leopxz/ProjetoLafepe): Projeto acadêmico desenvolvido para a empresa Lafepe com foco em automação e otimização de processos.
+- [Projeto de Machine Learning](https://github.com/leopxz/projeto-machine-learning): Um projeto de predição de vendas usando técnicas de ML.
+- [Landing Page para Freelance](https://github.com/leopxz/landing-page): Exemplo de uma landing page profissional desenvolvida para um cliente.
+
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leopxz&show_icons=true&theme=radical)
+
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=leopxz&theme=radical&mode=weekly" />
