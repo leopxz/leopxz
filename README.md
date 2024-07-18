@@ -3,10 +3,10 @@
 ## Sobre Mim
 Sou um desenvolvedor apaixonado por Data Science, Machine Learning e desenvolvimento web. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e buscando oportunidades para aplicar e expandir minhas habilidades em projetos interessantes.
 
-- 🔭 Atualmente trabalhando em projetos de Machine Learning e análises de dados
-- 🌱 Aprendendo mais sobre desenvolvimento web e tecnologias cloud
-- 👯 Aberto para colaboração em projetos de open source
-- 💬 Pergunte-me sobre qualquer coisa relacionada a dados e desenvolvimento web
+-  Atualmente estudando projetos de Machine Learning e análises de dados
+-  Aprendendo mais sobre desenvolvimento web
+-  Aberto para colaboração em projetos de open source
+
 - 📫 Como me encontrar: [Minhas Redes Sociais](https://linktr.ee/leopxz) 
 
 ## Projetos em Destaque
