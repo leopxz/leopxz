@@ -21,11 +21,11 @@
 **- Você pode entrar em contato comigo através das [Minhas Redes Sociais](https://linktr.ee/leopxz)**
 
 ## Projetos em Destaque
-**- [PowerBi Relatórios](https://github.com/leopxz/PowerBi_Relatorios): Relatórios e visualizações de dados usando Power BI.**
-**- [Projeto de Data Science](https://github.com/leopxz/ProjetoDataScience): Projetos de análise de dados e modelos preditivos em Data Science.**
-**- [Projeto Lafepe](https://github.com/leopxz/ProjetoLafepe): Projeto acadêmico desenvolvido para a empresa Lafepe com foco em automação e otimização de processos.**
-**- [Projeto de Machine Learning](https://github.com/leopxz/projeto-machine-learning): Um projeto de predição de vendas usando técnicas de ML.**
-**- [Landing Page para Freelance](https://github.com/DeepLore7/Landing-Page_EvertonTenorio): Exemplo de uma landing page profissional desenvolvida para um cliente.**
+**- [PowerBi Relatórios](https://github.com/leopxz/PowerBi_Relatorios):** Relatórios e visualizações de dados usando Power BI.
+**- [Projeto de Data Science](https://github.com/leopxz/ProjetoDataScience):** Projetos de análise de dados e modelos preditivos em Data Science.
+**- [Projeto Lafepe](https://github.com/leopxz/ProjetoLafepe):** Projeto acadêmico desenvolvido para a empresa Lafepe com foco em automação e otimização de processos.
+**- [Projeto de Machine Learning](https://github.com/leopxz/projeto-machine-learning):** Um projeto de predição de vendas usando técnicas de ML.
+**- [Landing Page para Freelance](https://github.com/DeepLore7/Landing-Page_EvertonTenorio):** Exemplo de uma landing page profissional desenvolvida para um cliente.
 
 ## Minhas Skills
 
