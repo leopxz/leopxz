@@ -12,11 +12,11 @@
 
 
 ## Sobre Mim
-**Apaixonado por Data Science, Machine Learning e desenvolvimento web.<br> Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e buscando oportunidades para aplicar e expandir minhas habilidades em projetos interessantes.**
+**Apaixonado por Data Science, Machine Learning e desenvolvimento web. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e buscando oportunidades para aplicar e expandir minhas habilidades em projetos interessantes.**<br>
 
-**-  Atualmente estudando projetos de Machine Learning e análises de dados**
-**-  Aprendendo mais sobre desenvolvimento web**
-**-  Aberto para colaboração em projetos de open source**
+**-  Atualmente estudando projetos de Machine Learning e análises de dados**<br>
+**-  Aprendendo mais sobre desenvolvimento web**<br>
+**-  Aberto para colaboração em projetos de open source**<br>
 
 **- Você pode entrar em contato comigo através das [Minhas Redes Sociais](https://linktr.ee/leopxz)**
 
