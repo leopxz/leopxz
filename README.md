@@ -18,11 +18,11 @@ Apaixonado por Data Science, Machine Learning e desenvolvimento web. Estou cursa
  Você pode entrar em contato comigo através das **[Minhas Redes Sociais](https://linktr.ee/leopxz)**
 
 ## Projetos em Destaque
-**- [PowerBi Relatórios](https://github.com/leopxz/PowerBi_Relatorios):** Relatórios e visualizações de dados usando Power BI.<br>
-**- [Projeto de Data Science](https://github.com/leopxz/ProjetoDataScience):** Projetos de análise de dados e modelos preditivos em Data Science.<br>
-**- [Projeto Lafepe](https://github.com/leopxz/ProjetoLafepe):** Projeto acadêmico desenvolvido para a empresa Lafepe com foco em automação e otimização de processos.<br>
-**- [Projeto de Machine Learning](https://github.com/leopxz/projeto-machine-learning):** Um projeto de predição de vendas usando técnicas de ML.<br>
-**- [Landing Page para Freelance](https://github.com/DeepLore7/Landing-Page_EvertonTenorio):** Exemplo de uma landing page profissional desenvolvida para um cliente.<br>
+**[PowerBi Relatórios](https://github.com/leopxz/PowerBi_Relatorios):** Relatórios e visualizações de dados usando Power BI.<br>
+**[Projeto de Data Science](https://github.com/leopxz/ProjetoDataScience):** Projetos de análise de dados e modelos preditivos em Data Science.<br>
+**[Projeto Lafepe](https://github.com/leopxz/ProjetoLafepe):** Projeto acadêmico desenvolvido para a empresa Lafepe com foco em automação e otimização de processos.<br>
+**[Projeto de Machine Learning](https://github.com/leopxz/projeto-machine-learning):** Um projeto de predição de vendas usando técnicas de ML.<br>
+**[Landing Page para Freelance](https://github.com/DeepLore7/Landing-Page_EvertonTenorio):** Exemplo de uma landing page profissional desenvolvida para um cliente.<br>
 
 ## Minhas Skills
 
@@ -53,8 +53,9 @@ Apaixonado por Data Science, Machine Learning e desenvolvimento web. Estou cursa
 
 #### Estudando no momento:
 
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
+
 
 
 #### Databases:
