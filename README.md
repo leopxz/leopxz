@@ -15,7 +15,7 @@
 Apaixonado por Data Science, Machine Learning e desenvolvimento web. Estou cursando Análise e Desenvolvimento de Sistemas e buscando oportunidades para aplicar e expandir minhas habilidades em projetos interessantes. Atualmente estou estudando projetos de Machine Learning e análises de dados e aprendendo mais sobre desenvolvimento web.
 
 
-**- Você pode entrar em contato comigo através das [Minhas Redes Sociais](https://linktr.ee/leopxz)**
+** Você pode entrar em contato comigo através das [Minhas Redes Sociais](https://linktr.ee/leopxz)**
 
 ## Projetos em Destaque
 **- [PowerBi Relatórios](https://github.com/leopxz/PowerBi_Relatorios):** Relatórios e visualizações de dados usando Power BI.<br>
