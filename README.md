@@ -1,4 +1,4 @@
-# Olá, me chamo Leonardo! 👋
+# Olá, me chamo Leonardo!👋
 
 ## Estatísticas do GitHub
 
