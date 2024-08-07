@@ -49,6 +49,8 @@ Apaixonado por Data Science, Machine Learning e desenvolvimento web. Estou cursa
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F57F17?style=for-the-badge&logo=Jupyter&logoColor=white)
+
 
 #### Databases:
 
