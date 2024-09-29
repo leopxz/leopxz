@@ -16,16 +16,12 @@ Apaixonado por Data Science, Machine Learning e desenvolvimento web. Estou cursa
 **[IA - Reconhecimento das mãos](https://github.com/leopxz/IA-reconhecimento-das-maos):** Controla o volume do computador com base na detecção dos movimentos do polegar.<br>
 
 <h3 align="left">Ferramentas & Linguagens</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <code>
-      <img src="https://skillicons.dev/icons?i=git,github,mysql,postgres,python,flask,html,css,javascript,vercel,figma,mongodb,azure,django,vscode"/>
-     <br><br><br>
-    </code>
+    <img src="https://skillicons.dev/icons?i=git,github,python,flask,matlab,django,html,css,javascript,bootstrap,vercel,figma,mongodb,sqlite,mysql,postgres,azure,vscode" />
   </a>
 </p>
-
-
 
 ## Contatos:
 
