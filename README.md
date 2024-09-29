@@ -36,4 +36,4 @@ Estou sempre aberto a conectar com outros profissionais e discutir novas ideias.
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0072A3&height=120&section=footer"/>
+
