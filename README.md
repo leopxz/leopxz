@@ -19,7 +19,9 @@ Apaixonado por Data Science, Machine Learning e desenvolvimento web. Estou cursa
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,flask,matlab,django,html,css,javascript,bootstrap,vercel,figma,mongodb,sqlite,mysql,postgres,azure,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,flask,matlab,django,html,css,javascript" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,vercel,figma,mongodb,sqlite,mysql,postgres,azure,vscode" />
   </a>
 </p>
 
