@@ -1,20 +1,5 @@
 # Olá, me chamo Leonardo!👋
 
-## Estatísticas do GitHub
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=leopxz&theme=radical&mode=weekly" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopxz&show_icons=true&layout=theme=radical&mode=weekly" />
-</a> 
-</p>
-
-
-
-
- </div>
- &nbsp;
- &nbsp;
-
 
 ## Sobre Mim
 Apaixonado por Data Science, Machine Learning e desenvolvimento web. Estou cursando Análise e Desenvolvimento de Sistemas e buscando oportunidades para aplicar e expandir minhas habilidades em projetos interessantes. Atualmente estou estudando projetos de Machine Learning e análises de dados e aprendendo mais sobre desenvolvimento web.
@@ -34,7 +19,7 @@ Apaixonado por Data Science, Machine Learning e desenvolvimento web. Estou cursa
 <p align="center">
   <a href="https://skillicons.dev">
     <code>
-      <img src="https://skillicons.dev/icons?i=linux,git,github,mysql,postgres,matlab,python,flask,html,css,javascript,powerbi,vercel,figma,sqllite,mongodb,sqlserver,jupyter,azure,pandas,plotly,streamlit,django,vscode,pycharm"/>
+      <img src="https://skillicons.dev/icons?i=git,github,mysql,postgres,matlab,python,flask,html,css,javascript,powerbi,vercel,figma,sqllite,mongodb,azure,django,vscode,pycharm"/>
     </code>
   </a>
 </p>
