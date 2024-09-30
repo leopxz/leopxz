@@ -21,9 +21,9 @@ Além disso, tenho experiência com projetos de Machine Learning e automação, 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,flask,matlab,django,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,flask,django,html,css,javascript" />
     <br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,vercel,figma,mongodb,sqlite,mysql,postgres,azure,vscode" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,figma,mongodb,sqlite,mysql,postgres,azure,vscode" />
   </a>
 </p>
 
