@@ -7,7 +7,7 @@ Sou apaixonado por Data Science, Machine Learning e desenvolvimento web. Atualme
 Além disso, tenho experiência com projetos de Machine Learning e automação, e estou sempre à procura de novas ferramentas e tecnologias que possam aprimorar meu trabalho.
 
 
- Você pode entrar em contato comigo através das **[Minhas Redes Sociais](https://linktr.ee/leopxz)**
+ Você pode entrar em contato comigo através das **[Minhas Redes Sociais](https://linktr.ee/leopxz)** ou acessando meu site https://leonardopaixao.online/
 
 ## Projetos em Destaque
 **[PowerBi Relatórios](https://github.com/leopxz/PowerBi_Relatorios):** Relatórios interativos e visualizações de dados usando Power BI, focados em transformar dados brutos em insights acionáveis.<br>
