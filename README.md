@@ -4,7 +4,7 @@
 
 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas e trabalho com **automação de processos e IA aplicada**. No dia a dia, atuo como Especialista em Suporte a Automação em um ambiente corporativo: crio e mantenho automações em Python, mantenho aplicações web em PHP/MySQL e transformo rotinas manuais em fluxos que se executam sozinhos.
 
-Hoje meu foco é unir automação e inteligência artificial: agentes, integrações via API e fluxos que economizam tempo de equipes. Em janeiro de 2027 começo uma pós-graduação em Engenharia de IA.
+Hoje meu foco é unir automação e inteligência artificial: agentes, integrações via API e fluxos que economizam tempo de equipes. 
 
 Você pode entrar em contato comigo através das **[Minhas Redes Sociais](https://linktr.ee/leopxz)** ou acessando **[Meu Site](https://leonardopaixao.online/)**
 
